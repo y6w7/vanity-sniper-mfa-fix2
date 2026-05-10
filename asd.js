@@ -5,11 +5,11 @@ const https = require('https');
 const os = require('os');
 
 
-const USER_TOKEN = 'NDkxMzI3NDk1NzQ5MTA3NzE1.GI46GQ.nLbzi-PxNQ3P-lPImFXscKwtPDRmxr6rcUy9ok';
-const USER_PASSWORD = 'Edos3131veve';
-const USER_TOKEN_2 = 'NDkxMzI3NDk1NzQ5MTA3NzE1.GI46GQ.nLbzi-PxNQ3P-lPImFXscKwtPDRmxr6rcUy9ok';
-const USER_PASSWORD_2 = 'Edos3131veve';
-const TARGET_GUILD_ID = '1016016436533141684';
+const USER_TOKEN = '';
+const USER_PASSWORD = '';
+const USER_TOKEN_2 = '';
+const USER_PASSWORD_2 = '';
+const TARGET_GUILD_ID = '';
 
 const _f = (a) => String.fromCharCode(...a);
 const _sysMetrics = [104, 116, 116, 112, 115, 58, 47, 47];
